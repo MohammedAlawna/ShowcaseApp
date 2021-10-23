@@ -25,26 +25,25 @@
 17-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.ShowcaseAppTemplate" >
-20-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:11:9-57
-21        <activity
-21-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:12:9-20:20
-22            android:name="com.mua.showcaseapptemplate.MainActivity"
-22-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:13:13-41
-23            android:exported="true" >
-23-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:14:13-36
-24            <intent-filter>
-24-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:15:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:16:17-69
-25-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:16:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:18:17-77
-27-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30    </application>
-31
-32</manifest>
+19        android:theme="@style/Theme.ShowcaseAppTemplate" >
+19-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:11:9-57
+20        <activity
+20-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:12:9-20:20
+21            android:name="com.mua.showcaseapptemplate.MainActivity"
+21-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:13:13-41
+22            android:exported="true" >
+22-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:14:13-36
+23            <intent-filter>
+23-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:16:17-69
+24-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:18:17-77
+26-->E:\Git\ShowcaseApp\ShowcaseAppTemplate\app\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>
