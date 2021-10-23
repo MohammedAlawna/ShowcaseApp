@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbg"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/CO"
+        android:layout_width="304dp"
+        android:layout_height="268dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ogr" />
+
+    <TextView
+        android:id="@+id/mainTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/janalt"
+        android:gravity="center"
+        android:text="يُرجى الدخول لرؤية منتجاتنا.."
+        android:textColor="#8ACF37"
+        android:textSize="28sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CO" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="335dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/edittext_border"
+        android:drawableRight="@drawable/ic_baseline_perm_identity_24"
+        android:ems="10"
+        android:fontFamily="@font/janalt"
+        android:inputType="textPersonName"
+        android:text="الإسم"
+        android:textColor="#8ACF37"
+        android:textColorHighlight="#8ACF37"
+        android:textColorHint="#8ACF37"
+        android:textColorLink="#8ACF37"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainTitle" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="190dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/janalt"
+        android:text="دخول"
+        android:textSize="24sp"
+        app:backgroundTint="#8ACF37"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name" />
+</androidx.constraintlayout.widget.ConstraintLayout>

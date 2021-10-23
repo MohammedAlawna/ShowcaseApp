@@ -112,6 +112,10 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_perm_identity_24.png"
     },
     {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable_edittext_border.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\drawable\\edittext_border.xml"
+    },
+    {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
