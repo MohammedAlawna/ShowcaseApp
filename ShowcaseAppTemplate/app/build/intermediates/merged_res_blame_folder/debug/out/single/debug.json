@@ -8,6 +8,10 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_perm_identity_24.png"
     },
     {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-sw600dp_activity_main.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
@@ -24,6 +28,10 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-ldpi_activity_main.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-ldpi\\activity_main.xml"
+    },
+    {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_baseline_perm_identity_24.png.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_perm_identity_24.png"
     },
@@ -38,6 +46,10 @@
     {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\font_janalt.ttf.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\font\\janalt.ttf"
+    },
+    {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-hdpi_activity_main.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-hdpi\\activity_main.xml"
     },
     {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -68,12 +80,20 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable_mainbg.jpeg.flat",
-        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\drawable\\mainbg.jpeg"
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_activity_main.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-xxhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-mdpi_activity_main.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-mdpi\\activity_main.xml"
     },
     {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_perm_identity_24.png.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_perm_identity_24.png"
+    },
+    {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable_mainbg.jpg.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\drawable\\mainbg.jpg"
     },
     {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -92,12 +112,20 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-xhdpi_activity_main.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-xhdpi\\activity_main.xml"
+    },
+    {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-xxxhdpi_activity_main.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-xxxhdpi\\activity_main.xml"
     },
     {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",

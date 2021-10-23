@@ -34,9 +34,13 @@
 
     <EditText
         android:id="@+id/name"
-        android:layout_width="335dp"
+        android:layout_width="300dp"
         android:layout_height="49dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
         android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
         android:background="@drawable/edittext_border"
         android:drawableRight="@drawable/ic_baseline_perm_identity_24"
         android:ems="10"
