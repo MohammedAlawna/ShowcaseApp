@@ -1,0 +1,5 @@
+com/mua/showcaseapptemplate/BuildConfig.java
+ com.mua.showcaseapptemplate.BuildConfig
+com/mua/showcaseapptemplate/MainActivity.java
+ com.mua.showcaseapptemplate.MainActivity
+ com.mua.showcaseapptemplate.MainActivity$1
