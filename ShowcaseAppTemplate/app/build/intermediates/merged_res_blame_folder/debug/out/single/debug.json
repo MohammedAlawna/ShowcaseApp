@@ -84,6 +84,10 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-xxhdpi\\activity_main.xml"
     },
     {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout_main_menu.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout-mdpi_activity_main.xml.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout-mdpi\\activity_main.xml"
     },

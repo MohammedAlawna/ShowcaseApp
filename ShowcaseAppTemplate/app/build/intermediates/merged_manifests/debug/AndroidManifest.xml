@@ -18,6 +18,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ShowcaseAppTemplate" >
         <activity
+            android:name="com.mua.showcaseapptemplate.MainMenu"
+            android:exported="false" />
+        <activity
             android:name="com.mua.showcaseapptemplate.MainActivity"
             android:exported="true" >
             <intent-filter>

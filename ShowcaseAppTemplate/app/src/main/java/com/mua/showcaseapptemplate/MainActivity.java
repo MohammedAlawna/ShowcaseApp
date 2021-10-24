@@ -2,6 +2,7 @@ package com.mua.showcaseapptemplate;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -17,17 +18,26 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        getSupportActionBar().hide();
+
         loginBtn = findViewById(R.id.loginButton);
         loginInputTxt = findViewById(R.id.name);
+
 
 
 
         loginBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                GoToAnotherActivity();
                 System.out.println("LoggedIn with name");
             }
         });
 
+    }
+
+    void GoToAnotherActivity() {
+        Intent intent = new Intent(this, MainMenu.class);
+        startActivity(intent);
     }
 }

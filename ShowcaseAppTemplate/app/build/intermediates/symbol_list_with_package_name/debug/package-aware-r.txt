@@ -1144,6 +1144,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color green
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -2298,6 +2299,7 @@ id wrap_content
 id wrap_content_constrained
 id x_left
 id x_right
+id yourName
 id zero_corner_chip
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
@@ -2383,6 +2385,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout main_menu
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider

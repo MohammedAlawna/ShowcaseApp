@@ -1,3 +1,5 @@
+com/mua/showcaseapptemplate/MainMenu.java
+ com.mua.showcaseapptemplate.MainMenu
 com/mua/showcaseapptemplate/BuildConfig.java
  com.mua.showcaseapptemplate.BuildConfig
 com/mua/showcaseapptemplate/MainActivity.java
