@@ -15,10 +15,6 @@ public class MainMenu extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_menu);
 
-        GetNameFromIntent();
-    }
-
-    private void GetNameFromIntent() {
         nameText = findViewById(R.id.yourName);
         Intent intent = getIntent();
         String str = intent.getStringExtra("name");
