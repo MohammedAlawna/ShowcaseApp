@@ -8,11 +8,17 @@
 
     <TextView
         android:id="@+id/yourName"
-        android:layout_width="140dp"
-        android:layout_height="59dp"
+        android:layout_width="112dp"
+        android:layout_height="47dp"
         android:layout_marginTop="36dp"
         android:text="TextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.gridlayout.widget.GridLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
