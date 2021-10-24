@@ -29,14 +29,14 @@ public class MainActivity extends AppCompatActivity {
         loginBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                GoToAnotherActivity();
+                ProcessNextActivityWithDataSaved();
                 System.out.println("LoggedIn with name");
             }
         });
 
     }
 
-    void GoToAnotherActivity() {
+    void ProcessNextActivityWithDataSaved() {
         //Intent intent = new Intent(this, MainMenu.class);
         String str = loginInputTxt.getText().toString();
         Intent intent = new Intent(getApplicationContext(), MainMenu.class);
