@@ -37,7 +37,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void GoToAnotherActivity() {
-        Intent intent = new Intent(this, MainMenu.class);
+        //Intent intent = new Intent(this, MainMenu.class);
+        String str = loginInputTxt.getText().toString();
+        Intent intent = new Intent(getApplicationContext(), MainMenu.class);
+        intent.putExtra("name", str);
         startActivity(intent);
     }
 }

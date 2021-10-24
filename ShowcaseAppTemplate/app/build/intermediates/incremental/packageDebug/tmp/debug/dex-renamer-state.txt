@@ -1,4 +1,4 @@
-#Sun Oct 24 12:58:18 PDT 2021
+#Sun Oct 24 13:25:26 PDT 2021
 base.0=E\:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
