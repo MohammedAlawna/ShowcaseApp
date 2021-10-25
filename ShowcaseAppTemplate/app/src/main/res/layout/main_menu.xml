@@ -10,11 +10,12 @@
         android:id="@+id/yourName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/janalt"
         android:text="إسمك"
         android:textSize="50sp"
-        android:layout_centerHorizontal="true"
         android:textStyle="bold"
-        android:fontFamily="@font/janalt" />
+        android:layout_marginTop="20dp"/>
 
     <androidx.gridlayout.widget.GridLayout
         android:layout_width="match_parent"
