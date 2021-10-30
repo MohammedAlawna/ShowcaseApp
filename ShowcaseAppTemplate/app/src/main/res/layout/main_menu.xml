@@ -23,7 +23,7 @@
     <androidx.gridlayout.widget.GridLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-
+        android:layout_below="@id/imageSlider"
         app:rowCount="3"
         app:columnCount="2">
 
