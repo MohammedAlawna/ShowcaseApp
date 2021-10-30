@@ -72,6 +72,10 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\drawable\\ogr.png"
     },
     {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\layout_slider_item.xml.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\layout\\slider_item.xml"
+    },
+    {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },

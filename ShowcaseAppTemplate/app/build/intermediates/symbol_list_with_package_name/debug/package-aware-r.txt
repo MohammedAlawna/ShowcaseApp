@@ -769,6 +769,22 @@ attr percentWidth
 attr percentX
 attr percentY
 attr perpendicularPath_percent
+attr piv_animationDuration
+attr piv_animationType
+attr piv_autoVisibility
+attr piv_count
+attr piv_dynamicCount
+attr piv_interactiveAnimation
+attr piv_orientation
+attr piv_padding
+attr piv_radius
+attr piv_rtl_mode
+attr piv_scaleFactor
+attr piv_select
+attr piv_selectedColor
+attr piv_strokeWidth
+attr piv_unselectedColor
+attr piv_viewPager
 attr pivotAnchor
 attr placeholderText
 attr placeholderTextAppearance
@@ -844,6 +860,25 @@ attr singleChoiceItemLayout
 attr singleLine
 attr singleSelection
 attr sizePercent
+attr sliderAnimationDuration
+attr sliderAutoCycleDirection
+attr sliderAutoCycleEnabled
+attr sliderIndicatorAnimationDuration
+attr sliderIndicatorEnabled
+attr sliderIndicatorGravity
+attr sliderIndicatorMargin
+attr sliderIndicatorMarginBottom
+attr sliderIndicatorMarginLeft
+attr sliderIndicatorMarginRight
+attr sliderIndicatorMarginTop
+attr sliderIndicatorOrientation
+attr sliderIndicatorPadding
+attr sliderIndicatorRadius
+attr sliderIndicatorRtlMode
+attr sliderIndicatorSelectedColor
+attr sliderIndicatorUnselectedColor
+attr sliderScrollTimeInSec
+attr sliderStartAutoCycle
 attr sliderStyle
 attr snackbarButtonStyle
 attr snackbarStyle
@@ -1935,6 +1970,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id back_and_forth
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -1970,6 +2006,7 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id color
 id confirm_button
 id constraint
 id container
@@ -2012,6 +2049,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id drop
 id dropdown_menu
 id easeIn
 id easeInOut
@@ -2060,6 +2098,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageSlider
+id image_view
 id immediateStop
 id included
 id info
@@ -2189,6 +2229,7 @@ id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
 id scale
+id scale_down
 id screen
 id scroll
 id scrollIndicatorDown
@@ -2246,6 +2287,7 @@ id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id swap
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -2280,6 +2322,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id thinWorm
 id time
 id title
 id titleDividerNoCustom
@@ -2313,6 +2356,7 @@ id visible_removing_fragment_view_tag
 id west
 id withText
 id withinBounds
+id worm
 id wrap
 id wrap_content
 id wrap_content_constrained
@@ -2457,6 +2501,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout slider_item
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -3408,6 +3453,7 @@ styleable NavigationRailView headerLayout menuGravity
 styleable NavigationView android_background android_fitsSystemWindows android_maxWidth elevation headerLayout itemBackground itemHorizontalPadding itemIconPadding itemIconSize itemIconTint itemMaxLines itemShapeAppearance itemShapeAppearanceOverlay itemShapeFillColor itemShapeInsetBottom itemShapeInsetEnd itemShapeInsetStart itemShapeInsetTop itemTextAppearance itemTextColor menu shapeAppearance shapeAppearanceOverlay
 styleable OnClick clickAction targetId
 styleable OnSwipe autoCompleteMode dragDirection dragScale dragThreshold limitBoundsTo maxAcceleration maxVelocity moveWhenScrollAtTop nestedScrollFlags onTouchUp rotationCenterId springBoundary springDamping springMass springStiffness springStopThreshold touchAnchorId touchAnchorSide touchRegionId
+styleable PageIndicatorView piv_animationDuration piv_animationType piv_autoVisibility piv_count piv_dynamicCount piv_interactiveAnimation piv_orientation piv_padding piv_radius piv_rtl_mode piv_scaleFactor piv_select piv_selectedColor piv_strokeWidth piv_unselectedColor piv_viewPager
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable PropertySet android_visibility android_alpha layout_constraintTag motionProgress visibilityMode
@@ -3421,6 +3467,7 @@ styleable SearchView android_focusable android_maxWidth android_inputType androi
 styleable ShapeAppearance cornerFamily cornerFamilyBottomLeft cornerFamilyBottomRight cornerFamilyTopLeft cornerFamilyTopRight cornerSize cornerSizeBottomLeft cornerSizeBottomRight cornerSizeTopLeft cornerSizeTopRight
 styleable ShapeableImageView contentPadding contentPaddingBottom contentPaddingEnd contentPaddingLeft contentPaddingRight contentPaddingStart contentPaddingTop shapeAppearance shapeAppearanceOverlay strokeColor strokeWidth
 styleable Slider android_enabled android_value android_stepSize android_valueFrom android_valueTo haloColor haloRadius labelBehavior labelStyle thumbColor thumbElevation thumbRadius thumbStrokeColor thumbStrokeWidth tickColor tickColorActive tickColorInactive tickVisible trackColor trackColorActive trackColorInactive trackHeight
+styleable SliderView sliderAnimationDuration sliderAutoCycleDirection sliderAutoCycleEnabled sliderIndicatorAnimationDuration sliderIndicatorEnabled sliderIndicatorGravity sliderIndicatorMargin sliderIndicatorMarginBottom sliderIndicatorMarginLeft sliderIndicatorMarginRight sliderIndicatorMarginTop sliderIndicatorOrientation sliderIndicatorPadding sliderIndicatorRadius sliderIndicatorRtlMode sliderIndicatorSelectedColor sliderIndicatorUnselectedColor sliderScrollTimeInSec sliderStartAutoCycle
 styleable Snackbar snackbarButtonStyle snackbarStyle snackbarTextViewStyle
 styleable SnackbarLayout android_maxWidth actionTextColorAlpha animationMode backgroundOverlayColorAlpha backgroundTint backgroundTintMode elevation maxActionInlineWidth
 styleable Spinner android_entries android_popupBackground android_prompt android_dropDownWidth popupTheme
