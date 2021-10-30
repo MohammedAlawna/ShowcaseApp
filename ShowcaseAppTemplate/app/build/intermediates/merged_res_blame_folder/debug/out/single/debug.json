@@ -108,6 +108,10 @@
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable_imgsldr.jpg.flat",
+        "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\src\\main\\res\\drawable\\imgsldr.jpg"
+    },
+    {
         "merged": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "E:\\Git\\ShowcaseApp\\ShowcaseAppTemplate\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },

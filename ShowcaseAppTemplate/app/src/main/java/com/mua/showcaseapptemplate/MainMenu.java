@@ -15,9 +15,9 @@ public class MainMenu extends AppCompatActivity {
     TextView nameText;
 
     SliderView sliderView;
-    int[] images = {R.drawable.mainbg,
-            R.drawable.mainbg,
-            R.drawable.mainbg};
+    int[] images = {R.drawable.imgsldr,
+            R.drawable.imgsldr,
+            R.drawable.imgsldr};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
